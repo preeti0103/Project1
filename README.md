@@ -13,12 +13,12 @@ Below are the questions which we want to answer with the help of data:
 # Source of Dataset:
 
 Housing Prices by Year and Area:
-CREA - The Canadian Real Estate Association Website
-https://creastats.crea.ca/en-CA/
+ * CREA - The Canadian Real Estate Association Website
+   https://creastats.crea.ca/en-CA/
 
 Income by Year and Area:
-Canada Revenue Agency Website
-https://www.canada.ca/en/revenue-agency/programs/about-canada-revenue-agency-cra/income-statistics-gst-hst-statistics/individual-tax-statistics-area-itsa.html
+ * Canada Revenue Agency Website
+   https://www.canada.ca/en/revenue-agency/programs/about-canada-revenue-agency-cra/income-statistics-gst-hst-statistics/individual-tax-statistics-area-itsa.html
 
 
 # Data cleaning process involves the following steps:
