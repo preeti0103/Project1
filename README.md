@@ -9,7 +9,7 @@ Below are the questions which we want to answer with the help of data:
 * Income per region, and ratio of income to housing price (income / house)
 * How has housing prices been affected by COVID-19?
 
-Source of Dataset:
+# Source of Dataset:
 
 Housing Prices by Year and Area:
 CREA - The Canadian Real Estate Association Website
@@ -20,7 +20,7 @@ Canada Revenue Agency Website
 https://www.canada.ca/en/revenue-agency/programs/about-canada-revenue-agency-cra/income-statistics-gst-hst-statistics/individual-tax-statistics-area-itsa.html
 
 
-Data cleaning process involves the following steps:
+# Data cleaning process involves the following steps:
 
 * Earlier we had dataset with 1124 rows and 8 columns which also had some null values. 
 * With little bit cleaning, we removed the null values and left with 1110 rows and 8 columns.
@@ -29,7 +29,7 @@ Data cleaning process involves the following steps:
 * Formatted the benchmark price and round it to two decimal places and added a ‘$’ sign to make it more presentable and meaningful.
 
 
-What do our finding means:
+# What do our finding means:
 
 * Significant increase in housing prices over last 5,10, and 15 year periods across all six regions under our coverage for Southern Ontario
 * Prices for two-storey increased faster than apartments.
