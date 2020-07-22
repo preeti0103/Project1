@@ -41,12 +41,12 @@ https://www.canada.ca/en/revenue-agency/programs/about-canada-revenue-agency-cra
 
 * Housing prices are increasing, with occasional fluctuations due policy and regulatory changes across all regions.
 * Housing prices have increased across all regions between 2015 and 2020. 
-* The GTA and the Oakville & Milton regions saw the largest increase in price and are the most expensive regions for any type of housing
+  * The GTA and the Oakville & Milton regions saw the largest increase in price and are the most expensive regions for any type of housing
 * Housing affordability has decreased over time across all regions at different rates.
-* The price of a house is 14.5 times more than the average income in 2017 in the GTA
-* 4 times more as compared to three years before in 2014 (GTA)
+  * The price of a house is 14.5 times more than the average income in 2017 in the GTA
+  * 4 times more as compared to three years before in 2014 (GTA)
 * Most regions have seen no decrease in housing prices since the COVID-19 outbreak
-* Guelph saw a decrease in housing prices from January to May (2019 vs. 2020)
-* Delay in housing market changes due to closing time periods
+  * Guelph saw a decrease in housing prices from January to May (2019 vs. 2020)
+  * Delay in housing market changes due to closing time periods
 
 
