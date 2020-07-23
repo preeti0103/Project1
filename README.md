@@ -1,13 +1,13 @@
 # Ontario Housing Prices and Income Trends
 
-The project analyses the change in the housing prices over time in Southern Ontario region. We have also analysed if there is any increase or decrease in the housing prices due to Covid-19 pandemic.
+This project analyses the change in the housing prices over time in the Southern Ontario region. Also analysed, is if there is any increase or decrease in the housing prices due to COVID-19.
 
-Below are the questions which we want to answer with the help of data:
+Below are four questions which will be answered through the analysis:
 
-* How are housing prices changing over time? 
-* What are the housing price trends across different regions in Southern Ontario ( 2015 vs 2020)?
-* How has housing affordability changed over time?
-* How has housing prices been affected by COVID-19?
+1. How are housing prices changing over time? 
+2. What are the housing price trends across different regions in Southern Ontario ( 2015 vs 2020)?
+3. How has housing affordability changed over time?
+4. How has housing prices been affected by COVID-19?
 
 
 # Source of Dataset:
@@ -36,18 +36,56 @@ Income by Year and Area:
 * Grouped Housing Prices data frame by Region and Year.
 
 
+# Data Analysis:
+
+1. Income per Region data
+![GTA](Figures/analysis_1.png)
+
+2. Merging Housing Prices and Income per Region data
+![GTA](Figures/analysis_2.png)
+
+3. Sorting for Years we have both Housing Prices data and Income data for 2010, 2014 and  2017
+![GTA](Figures/analysis_3.png)
+
+4. Calculating Housing Price / Income Ratio and creating data frame with relevant data
+![GTA](Figures/analysis_4.png)
+
+5. Summarizing and plotting Housing Price / Income Ratio per Region data with a Pivot table
+![GTA](Figures/analysis_5.png)
+
+# Final Data Tables:
+
+Housing Prices
+![GTA](Figures/Housing_Prices.png)
+
+Average Annual Income by Region
+![GTA](Figures/Income_by_Region.png)
+
+
 # Conclusions:
 
-* Housing prices are increasing, with occasional fluctuations due policy and regulatory changes across all regions.
-* Housing prices have increased across all regions between 2015 and 2020
-  * The GTA and the Oakville & Milton regions saw the largest increase in price and are the most expensive regions for any type of housing.
-* Housing affordability has decreased over time across all regions at different rates.
-  * The price of a house is 14.5 times more than the average income in 2017 in the GTA.
-  * 4 times more as compared to three years before in 2014 (GTA).
-* All regions have saw an increase in housing prices since the COVID-19 outbreak
-  * Guelph saw a lower rate of increase in housing prices from January to May (2019 vs. 2020)
-  * Delay in housing market changes due to closing time periods
+1. Housing prices are increasing, with occasional fluctuations due policy and regulatory changes across all regions.
 
+![GTA](Figures/Housing_Price_per_Region.png)
+
+2. Housing prices have increased across all regions between 2015 and 2020
+  a. The GTA and the Oakville & Milton regions saw the largest increase in price and are the most expensive regions for any type of housing.
+
+![GTA](Figures/ADD_IMAGE_File_NAME.png)
+
+3. Housing affordability has decreased over time across all regions at different rates.
+  a. The price of a house is 14.5 times more than the average income in 2017 in the GTA.
+  b. 4 times more as compared to three years before in 2014 (GTA).
+
+![GTA](Figures/GTA_Housing_Price_Over_Time.png)
+
+![GTA](Figures/Price_to_Income_Ratio.png)
+
+4. All regions have saw an increase in housing prices since the COVID-19 outbreak
+  a. Guelph saw a lower rate of increase in housing prices from January to May (2019 vs. 2020)
+  b. Delay in housing market changes due to closing time periods
+
+![GTA](Figures/ADD_IMAGE_File_NAME.png)
 
 
 # Insights:
@@ -59,6 +97,3 @@ Income by Year and Area:
   * Job markets usually have excess supply of labor = lower increase of wages.
 * Housing Prices are currently increasing, even during COVID-19, however more time is needed to accurately analyse the effect of COVID-19 on housing prices.
 
-![GTA](Figures/analysis_1.png)
-
-![GTA](Figures/GTA_Housing_Price_Over_Time.png)
