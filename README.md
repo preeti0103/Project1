@@ -76,6 +76,7 @@ Income by Year and Area:
 
 **2.** Housing prices have increased across all regions between 2015 and 2020
    * The GTA and the Oakville & Milton regions saw the largest increase in price and are the most expensive regions for any type of housing.
+   
 ![GTA](Figures/ADD_IMAGE_File_NAME.png)
 
 **3.** Housing affordability has decreased over time across all regions at different rates.
@@ -87,6 +88,7 @@ Income by Year and Area:
 **4.** All regions have saw an increase in housing prices since the COVID-19 outbreak
    * Guelph saw a lower rate of increase in housing prices from January to May (2019 vs. 2020)
    * Delay in housing market changes due to closing time periods
+   
 ![GTA](Figures/ADD_IMAGE_File_NAME.png)
 
 
