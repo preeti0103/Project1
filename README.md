@@ -38,27 +38,28 @@ Income by Year and Area:
 
 # Data Analysis:
 
-1. Income per Region data
+*1. Income per Region data*
+
 ![GTA](Figures/analysis_1.png)
 
-2. Merging Housing Prices and Income per Region data
+*2. Merging Housing Prices and Income per Region data*
 ![GTA](Figures/analysis_2.png)
 
-3. Sorting for Years we have both Housing Prices data and Income data for 2010, 2014 and  2017
+*3. Sorting for Years we have both Housing Prices data and Income data for 2010, 2014 and  2017*
 ![GTA](Figures/analysis_3.png)
 
-4. Calculating Housing Price / Income Ratio and creating data frame with relevant data
+*4. Calculating Housing Price / Income Ratio and creating data frame with relevant data*
 ![GTA](Figures/analysis_4.png)
 
-5. Summarizing and plotting Housing Price / Income Ratio per Region data with a Pivot table
+*5. Summarizing and plotting Housing Price / Income Ratio per Region data with a Pivot table*
 ![GTA](Figures/analysis_5.png)
 
 # Final Data Tables:
 
-Housing Prices
+*Housing Prices*
 ![GTA](Figures/Housing_Prices.png)
 
-Average Annual Income by Region
+*Average Annual Income by Region*
 ![GTA](Figures/Income_by_Region.png)
 
 
