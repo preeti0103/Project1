@@ -59,4 +59,4 @@ Income by Year and Area:
   * Job markets usually have excess supply of labor = lower increase of wages.
 * Housing Prices are currently increasing, even during COVID-19, however more time is needed to accurately analyse the effect of COVID-19 on housing prices.
 
-![GTA Housing Price Over Time](Figures/GTA Housing Price Over Time.png)
+![GTA Housing Price Over Time](./Figures/GTA Housing Price Over Time.png)
