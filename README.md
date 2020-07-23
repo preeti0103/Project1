@@ -61,4 +61,4 @@ Income by Year and Area:
 
 ![GTA](Figures/analysis_1.png)
 
-![GTA](Figures/GTA Housing Price Over Time.png)
+![GTA](Figures/GTA_Housing_Price_Over_Time.png)
